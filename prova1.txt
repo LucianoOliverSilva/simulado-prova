@@ -1,0 +1,4 @@
+Aluno: Luciano de oliveira
+1-enviar o comando necessario para exibir todas as linhas com o ip 200.19.168.148 no arquivo access.log
+
+grep " 200.19.168.198.1 access.log
